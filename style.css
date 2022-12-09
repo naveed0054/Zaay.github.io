@@ -1,0 +1,136 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+body{
+    font-family: sans-serif;
+}
+#nav-bar
+{
+   position: relative;
+  top: 0;
+  z-index: 10;
+
+}
+.navbar
+{
+
+padding: 0 !important;
+}
+.navbar-brand img
+{
+
+height: 50px;
+padding-left: 20px;
+width: 100%;
+
+}
+.navbar-nav li
+{
+padding: 0 10px;
+
+}
+.navbar-nav li a
+{
+  color: rgb(26, 20, 20) !important;
+ font-weight: 600;
+ font-size: 18px;
+}
+
+/*----banner section-----*/
+
+#banner
+{
+  background-color: #efefef;
+
+}
+.text-success {
+  color: #59ab6e!important;
+}
+.h1 {
+  font-family: Roboto,sans-serif;
+  font-size: 48px!important;
+  font-weight: 200!important;
+}
+b, strong {
+  font-weight: bolder;
+}
+.h2 {
+  font-family: Roboto,sans-serif;
+  font-size: 30px !important;
+  font-weight: 300;
+}
+ p {
+  font-family: Roboto,sans-serif;
+  font-size: 18px!important;
+  font-weight: 300!important;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.btn-success {
+  background-color: #59ab6e!important;
+  border-color: #56ae6c!important;
+}
+.btn-success{
+  color:#fff !important;
+}
+p {
+  font-family: Roboto,sans-serif;
+  font-size: 18px!important;
+  font-weight: 300!important;
+
+}
+#tempaltemo_footer .border-light {
+  border-color: #2d343f!important;
+}
+.text-success {
+  color: #59ab6e!important;
+}
+.logo {
+  font-weight: 500!important;
+}
+.h2 {
+  font-family: Roboto,sans-serif;
+  font-size: 30px!important;
+}
+.text-light {
+  color: #cfd6e1!important;
+}
+#tempaltemo_footer ul.footer-link-list li {
+  padding-top: 10px;
+}
+#tempaltemo_footer .border-light {
+  border-color: #2d343f!important;
+}
+.btn-success {
+  background-color: #59ab6e!important;
+  border-color: #56ae6c!important;
+}
+
+
+a {
+  font-family: Roboto,sans-serif;
+  font-size: 18px!important;
+  font-weight: 300!important;
+}
+.bg-dark {
+  background-color: #212934!important;
+}
+#tempaltemo_footer a {
+  color: #dcdde1;
+}
+#tempaltemo_footer .border-light {
+  border-color: #2d343f!important;
+}
+.text-light {
+  color: #cfd6e1!important;
+}
+
+.h2 {
+  font-family: Roboto,sans-serif;
+  font-size: 30px!important;
+  font-weight: 300;
+}
